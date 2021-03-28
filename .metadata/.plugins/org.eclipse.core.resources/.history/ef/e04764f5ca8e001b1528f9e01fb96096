@@ -1,0 +1,2 @@
+spring.application.name=movie-info-servicehh
+server.port=8082

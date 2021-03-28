@@ -1,0 +1,9 @@
+package com.asl.movieinfoservice.models;
+
+public class MovieSummary {
+
+	private String title;
+	private String overview;
+	
+	
+}

@@ -1,0 +1,6 @@
+package com.asl.moviecatalogservice.models;
+
+public class Snippet {
+	Appointment Opening Time
+}
+

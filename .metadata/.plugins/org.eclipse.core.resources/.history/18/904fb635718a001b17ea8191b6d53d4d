@@ -1,0 +1,5 @@
+package com.asl.moviedataservice.models;
+
+public class UserRating {
+
+}
